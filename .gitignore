@@ -1,0 +1,22 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
+.idea/
+
+# Node (only used by the PDF build tools, not the website)
+node_modules/
+npm-debug.log*
+
+# Local working folders NOT needed for the website deployment.
+# The website itself lives at the repo root (index.html, assets/, etc.).
+# Keep these out of the Pages deploy to avoid publishing source/build junk:
+guide/
+Blogging-Is-Not-Dead-Guide/
+
+# Original source screenshots (the site uses assets/img/mgid-dashboard.png).
+# Remove these two lines if you prefer to keep the originals in the repo.
+general hospital my page.png
+Screenshot 2026-10-27 121955.png

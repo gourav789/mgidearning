@@ -1,0 +1,8 @@
+<!-- Favicon placeholder for Avsar Hub. Replace with your real logo/favicon before launch. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Avsar Hub">
+  <rect width="64" height="64" rx="14" fill="#111111"/>
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Arial, sans-serif" font-weight="900" font-size="30">
+    <tspan fill="#FFD928">A</tspan><tspan fill="#E62129">H</tspan>
+  </text>
+</svg>
